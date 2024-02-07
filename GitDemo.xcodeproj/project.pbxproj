@@ -12,6 +12,7 @@
 		66925D522B72E15500D380EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 66925D512B72E15500D380EA /* Assets.xcassets */; };
 		66925D552B72E15500D380EA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 66925D542B72E15500D380EA /* Preview Assets.xcassets */; };
 		66925D5C2B72E16200D380EA /* Arina.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66925D5B2B72E16200D380EA /* Arina.swift */; };
+		CAE9A3A02B73004000E80D48 /* Gustavo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAE9A39F2B73004000E80D48 /* Gustavo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		66925D512B72E15500D380EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		66925D542B72E15500D380EA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		66925D5B2B72E16200D380EA /* Arina.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Arina.swift; sourceTree = "<group>"; };
+		CAE9A39F2B73004000E80D48 /* Gustavo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gustavo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				66925D4D2B72E15400D380EA /* GitDemoApp.swift */,
 				66925D4F2B72E15400D380EA /* ContentView.swift */,
+				CAE9A39F2B73004000E80D48 /* Gustavo.swift */,
 				66925D5B2B72E16200D380EA /* Arina.swift */,
 				66925D512B72E15500D380EA /* Assets.xcassets */,
 				66925D532B72E15500D380EA /* Preview Content */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				66925D5C2B72E16200D380EA /* Arina.swift in Sources */,
+				CAE9A3A02B73004000E80D48 /* Gustavo.swift in Sources */,
 				66925D502B72E15400D380EA /* ContentView.swift in Sources */,
 				66925D4E2B72E15400D380EA /* GitDemoApp.swift in Sources */,
 			);
